@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0393/v1
 canonical_location: https://kanripo.org/bkk/KR6q0393/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 松隱唯菴然和尚語錄
   identifiers:
@@ -21,15 +21,15 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0393_000.yaml, hash: 'sha256:62c549abbf5798f6621ec0314213cc98f99bdb5f424a8767379e42014abc6c64'}
-  - {seq: 1, filename: KR6q0393_001.yaml, hash: 'sha256:d41904a81871bd2c9c5369b504c06e596fb6d32afdb83099fb0bf8c05be79e74'}
-  - {seq: 2, filename: KR6q0393_002.yaml, hash: 'sha256:109ebaaea0552b20b46f8090a2ae495b7b3805bde60eaba5c06f34f3e299ad69'}
-  - {seq: 3, filename: KR6q0393_003.yaml, hash: 'sha256:67c3ce1b41322d97788fd604b715b8ba4fd3e967a931a01ae89784c812903c0f'}
+  - {seq: 0, filename: KR6q0393_000.yaml, hash: 'sha256:2e839068eb524d9d50f42f7537204381e61959ef81570ad00d6c2418c1fa3c4c'}
+  - {seq: 1, filename: KR6q0393_001.yaml, hash: 'sha256:0ee6d116f3d7cf31614dcc49365a21526515ea06c1ea617f7a61a39e31534713'}
+  - {seq: 2, filename: KR6q0393_002.yaml, hash: 'sha256:1ae019a29e45870f7b9b95b911f2b457bca0b614dc16d587ffc1a51b977f3239'}
+  - {seq: 3, filename: KR6q0393_003.yaml, hash: 'sha256:11472a757676734d02d9c38f9e9350df7de9c5b2efb9e0ca651941e4e79a346c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0393_000.markers.yaml, hash: 'sha256:2660034d746c53cbe4ecb67c43af1a0eacfc89f8a7a3c4b541327b1e80aa23be'}
-  - {seq: 1, role: markers, filename: assets/KR6q0393_001.markers.yaml, hash: 'sha256:19a454d76ec5fdde35d378e596b871a7efd03dc58910be1c4646c893bbd78af6'}
-  - {seq: 2, role: markers, filename: assets/KR6q0393_002.markers.yaml, hash: 'sha256:c0bd7662c5097321d027ae2bb6bc35b7cdb0d207cbdef58de9a8775c62a76c97'}
-  - {seq: 3, role: markers, filename: assets/KR6q0393_003.markers.yaml, hash: 'sha256:89b84081f6d5d723f4aaf54b9ec16dea9a7164beb365258763255f63f8455afa'}
+  - {seq: 0, role: markers, filename: assets/KR6q0393_000.markers.yaml, hash: 'sha256:b7231a31293d22e8d9df999ce72732c3b4b5645738a8bbeefd87887348b8df8e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0393_001.markers.yaml, hash: 'sha256:edc04d64d2a5fc11357f123073ef66f2a73798a0f5fa8baea916b153df371f9b'}
+  - {seq: 2, role: markers, filename: assets/KR6q0393_002.markers.yaml, hash: 'sha256:14e0d0761b86dae928a98ba67eee26393ffb6117d2a6ba1ac53b755cc9d30ecc'}
+  - {seq: 3, role: markers, filename: assets/KR6q0393_003.markers.yaml, hash: 'sha256:db2d1f1b19e490b8a3ba4a23b5d10f382e83fe6be94e985c691f2a9bfad81119'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1351,4 +1351,7 @@ table_of_contents:
   label: 松隱唯菴然和尚語錄後序
   type: mulu
   level: 1
-hash: sha256:7b0ca041d611411ea84662aeffa913efd02179bf2ad6f95b118541a2e10640ed
+hash: sha256:5f904f8cfda37a9de95d98dab7efe02987927d56cb2dd18a131fa049d161f61e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
