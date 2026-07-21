@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0393_000-J.yaml, hash: 'sha256:62c549abbf5798f6621ec0314213cc98f99bdb5f424a8767379e42014abc6c64'}
+  - {seq: 0, filename: KR6q0393_000-J.yaml, hash: 'sha256:1ba64083c40e8a06fd48781f529fd2291f7307d988b786fac2181320362b1c92'}
   - {seq: 1, filename: KR6q0393_001-J.yaml, hash: 'sha256:d41904a81871bd2c9c5369b504c06e596fb6d32afdb83099fb0bf8c05be79e74'}
   - {seq: 2, filename: KR6q0393_002-J.yaml, hash: 'sha256:109ebaaea0552b20b46f8090a2ae495b7b3805bde60eaba5c06f34f3e299ad69'}
   - {seq: 3, filename: KR6q0393_003-J.yaml, hash: 'sha256:67c3ce1b41322d97788fd604b715b8ba4fd3e967a931a01ae89784c812903c0f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0393_000-J.markers.yaml, hash: 'sha256:f62329bc27cedab292e36849c00b567ed94b24cb1255d9b6807dfef81a46c336'}
+  - {seq: 0, role: markers, filename: assets/KR6q0393_000-J.markers.yaml, hash: 'sha256:85a5f7951cd17638b65e1c4095542bb128269a74dc4b78ed582305867f892356'}
   - {seq: 1, role: markers, filename: assets/KR6q0393_001-J.markers.yaml, hash: 'sha256:e5769c664e30d2589f54af2fbea6a3f56889c93bc110fd5be930f8c7de93fad9'}
   - {seq: 2, role: markers, filename: assets/KR6q0393_002-J.markers.yaml, hash: 'sha256:bba9daacd60532106b5a22160aabb1f7ab8dd1fc8f8d9625b36c3676ac876baa'}
   - {seq: 3, role: markers, filename: assets/KR6q0393_003-J.markers.yaml, hash: 'sha256:4713ccf54ce621fb096e4e01c5961686cd6c6422535620add7efa2dcbb7aced3'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0393_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 唯菴然和尚語錄序
@@ -1349,4 +1349,4 @@ table_of_contents:
   label: 松隱唯菴然和尚語錄後序
   type: mulu
   level: 1
-hash: sha256:d94e3c6b23060774109b40cff9992a2b4f9b6dad86132d974046dadf340658da
+hash: sha256:b4431d16da4c5c0a5e7af95966432166a2c23558dda0c22847564ba3ff86e026
